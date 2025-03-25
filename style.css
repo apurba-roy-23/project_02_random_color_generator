@@ -1,0 +1,15 @@
+body{
+   text-align: center;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   align-content: space-between;
+   /* background-color: aliceblue; */
+}
+.color-plate{
+   height: 100px;
+   width: 300px;
+   border: none;
+   margin-top: 20px;
+
+}
